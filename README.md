@@ -1,2 +1,2 @@
 # BnlJsDevEn
-This project is creates a set of standards and tools for JavaScript develeopment at BN Labs.
+This project is creates a set of standards and tools for JavaScript development at BN Labs.
